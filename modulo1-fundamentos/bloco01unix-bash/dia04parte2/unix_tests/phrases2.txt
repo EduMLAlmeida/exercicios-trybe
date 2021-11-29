@@ -1,0 +1,7 @@
+crie um novo arquivo
+adicione algumas frases
+adicione dois nomes de países
+crie uma nova pasta
+conte quantas linhas tem
+Brasil
+Inglaterra
